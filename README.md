@@ -1,1 +1,6 @@
-# Firmware-f-r-3D-Drucker
+# Firmware für 3D-Drucker
+Beinhaltet originale und angepasste Firmware-Version folgender Drucker:
+- Creality Ender-3
+- Geeetech A20T
+- Geeetech i3 Pro W
+- Tronxy X5SA
